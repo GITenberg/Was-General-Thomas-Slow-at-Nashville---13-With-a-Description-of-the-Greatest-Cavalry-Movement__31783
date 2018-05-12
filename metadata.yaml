@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35463
     wikipedia: http://en.wikipedia.org/wiki/Henry_Boynton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31783#Was-General-Thomas-Slow-at-Nashville---13-With-a-Description-of-the-Greatest-Cavalry-Movement_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-03-26'
 gutenberg_type: Text
