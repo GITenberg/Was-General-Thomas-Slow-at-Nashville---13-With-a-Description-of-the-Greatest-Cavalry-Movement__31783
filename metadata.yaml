@@ -1,0 +1,34 @@
+_repo: Was-General-Thomas-Slow-at-Nashville---13-With-a-Description-of-the-Greatest-Cavalry-Movement__31783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boynton, Henry V. (Henry Van)
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '35463'
+    url: http://www.gutenberg.org/2009/agents/35463
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Boynton
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31783'
+  lccn: 02017947
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nashville, Battle of, Nashville, Tenn., 1864'
+- !lcsh 'Wilson''s Cavalry Raid, 1865'
+- !lcsh 'Thomas, George H. (George Henry), 1816-1870'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+title: "Was General Thomas Slow at Nashville?\r\nWith a Description of the Greatest\
+  \ Cavalry Movement of the War and General James H. Wilson's Cavalry Operations in\
+  \ Tennessee, Alabama, and Georgia"
+url: http://www.gutenberg.org/ebooks/31783
